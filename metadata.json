@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Bill Reminder \u0026 Bounce Protection",
+  "description": "An Android application designed to track credit card bills, alert users about upcoming due dates, and prevent bank check or auto-debit bounces by monitoring minimum required account balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
